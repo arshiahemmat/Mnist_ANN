@@ -1,3 +1,3 @@
 # mnist_ANN
-## Sequential model for Mnist dataset
-### score: .95
+## Sequential model for Mnist dataset using keras
+### score of model: 95%
